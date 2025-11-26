@@ -8,8 +8,8 @@
 | Angeline Kipkemei | BSCCS/2023/52628|0721727646  |
 | Edwin Meiteikini  | BSCCS/2024/44160|0746075436  |
 |  Joyce Njeri      | BSCCS/2022/52454|0768586538  |
-| Samuel Otieno     | BSCCS/2019/51244|0759566557  |
-|Mary Wanjiku Maina | BSCCS/2023/44160|0705492382  | 
+| Samuel Otieno     | BSCCS/2019/89115|0759566557  |
+|Mary Wanjiku Maina | BSCCS/2023/51244|0705492382  | 
 
 
 
